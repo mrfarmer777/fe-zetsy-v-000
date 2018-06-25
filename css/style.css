@@ -29,4 +29,5 @@ h1{
 	font-weight: normal;
 	margin: 0 0 5px;
 	font-size: 5em;
+	border-bottom: solid 1px #ccc;
 }
