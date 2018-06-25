@@ -26,5 +26,6 @@ body {
 
 h1{
 	font-family: "Baskerville", serif;
+	margin: 0 0 5px;
 	font-size: 5em;
 }
