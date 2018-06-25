@@ -58,3 +58,7 @@ p{
 #press img{
 	border: solid 5px rgb(204,204,204);
 }
+
+footer p{
+	float:right;
+}
