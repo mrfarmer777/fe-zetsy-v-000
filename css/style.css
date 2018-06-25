@@ -34,6 +34,7 @@ h1{
 
 header a{
 	color: rgb(152,173,166);
+	transition: color 0.3s ease;
 	text-decoration: none;
 }
 
@@ -60,10 +61,12 @@ p{
 }
 #press img{
 	border: solid 5px rgb(204,204,204);
+	transition: border 0.3s ease;
 }
 
 #press img:hover{
 	border:solid 5px rgb(111,127,122);
+	transition: border 0.3s ease;
 }
 
 footer p{
