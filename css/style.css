@@ -12,7 +12,7 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
@@ -26,4 +26,5 @@ body {
 
 h1{
 	font-family: "Baskerville", serif;
+	font-size: 5em;
 }
