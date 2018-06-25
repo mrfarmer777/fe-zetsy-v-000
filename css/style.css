@@ -55,6 +55,9 @@ p{
 	margin: 0 0 20px 0;
 }
 
+#about a{
+	text-decoration: none;
+}
 #press img{
 	border: solid 5px rgb(204,204,204);
 }
