@@ -35,3 +35,7 @@ h1{
 h2{
 	color: rgb(111,127,122);
 }
+
+header img {
+	border: solid 10px #ccc;
+}
